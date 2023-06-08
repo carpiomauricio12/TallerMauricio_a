@@ -2,10 +2,10 @@
 
 -Nombre: Mauricio Carpio
 
-## Descripcion
+## Descripción
 
 
 ## Funcionamiento
 ![]()
-![](IMG/snow-gc63fdbe21_1280)
+![](IMG/snow-gc63fdbe21_1280.jpg)
 
